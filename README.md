@@ -1,2 +1,2 @@
 # TrabajoConReact
-Algo con lo que quiero mejor.
+Algo con lo que quiero mejorar.
